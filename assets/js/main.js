@@ -80,7 +80,7 @@ botaoAlterarTema.addEventListener("click", () => {
     if (modoEscuroEstaAtivo) {
         imagemBotaoTrocaDeTema.setAttribute("src", "./assets/imagens/sun.png");
     } else {
-        imagemBotaoTrocaDeTema.setAttribute("src", "../assets/imagens/moon.png");
+        imagemBotaoTrocaDeTema.setAttribute("src", "./assets/imagens/moon.png");
     }
 });
 
