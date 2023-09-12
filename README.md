@@ -16,6 +16,8 @@
 
 Desenvolver uma plataforma web para listagem e visualização de pokémons, para a construção deste projeto foi usado Javascript. Todos os dados sobre os pokémons como nome, número, tipo, imagem e entre outras coisas, foram possíveis com o uso da API REST [PokéApi](https://pokeapi.co/).
 
+- [Clique aqui para ver o projeto](https://looptock.github.io/js-developer-pokedex/)
+
 ### Funcionalidades
 
 - [x] **Listagem dos pokémons**: Listar os pokémons com o uso da API.
